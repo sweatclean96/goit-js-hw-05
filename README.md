@@ -1,1 +1,1 @@
-# goit-js-hw-05
+This project is for goIT js homework-5
